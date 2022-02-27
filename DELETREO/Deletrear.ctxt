@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Deletrear
+comment1.params=s
+comment1.target=void\ Deletreo(java.lang.String)
+comment2.params=s
+comment2.target=void\ DeletreoInv(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

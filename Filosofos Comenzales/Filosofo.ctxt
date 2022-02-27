@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Filosofo
+comment1.params=n\ cena
+comment1.target=Filosofo(int,\ CenadeFilosofos)
+comment2.params=
+comment2.target=void\ Pensar()
+comment3.params=
+comment3.target=void\ tomarPalillos()
+comment4.params=
+comment4.target=void\ Comer()
+comment5.params=
+comment5.target=void\ dejarPalillos()
+comment6.params=
+comment6.target=void\ run()
+numComments=7

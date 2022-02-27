@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Semaforo
+comment1.params=a
+comment1.target=void\ crearCola(int[])
+comment2.params=
+comment2.target=void\ mostrar()
+comment3.params=i
+comment3.target=java.lang.String\ direccion(int)
+comment4.params=a
+comment4.target=void\ agregarArreglo(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

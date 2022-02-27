@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Palillo
+comment1.params=n
+comment1.target=Palillo(int)
+comment2.params=
+comment2.target=void\ Usar()
+comment3.params=
+comment3.target=void\ Dejar()
+numComments=4
